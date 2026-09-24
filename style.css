@@ -11,5 +11,6 @@ h1 {
   margin-top: 20px;
 }
 box {
-  background-color: #468a46
+  background-color: #468a46;
+  border: 3px;
 }
