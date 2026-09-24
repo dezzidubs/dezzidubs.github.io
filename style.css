@@ -27,5 +27,5 @@ h1 {
 }
 .sidebar a {
   padding: 6px 8px 6px 16px;
-
+  display: block;
 }
