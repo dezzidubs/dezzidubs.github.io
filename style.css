@@ -15,7 +15,13 @@ h1 {
   border: 3px;
 }
 .sidebar {
-  color: #468a46;
-  height: 100%
-  Width: 180px
+  background-color: #468a46;
+  height: 100%;
+  Width: 180px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
 }
